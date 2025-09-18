@@ -1,7 +1,8 @@
 bases:
   - ../../base
 
-patchesStrategicMerge:
-  - api-patch.yaml
+patches:
+  - path: api-patch.yaml
+
 
 namePrefix: data-
