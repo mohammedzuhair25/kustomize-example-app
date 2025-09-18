@@ -3,3 +3,7 @@ bases:
 
 patchesStrategicMerge:
   - api-patch.yaml
+
+namePrefix: data-
+
+namespace: db
